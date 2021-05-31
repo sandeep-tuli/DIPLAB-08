@@ -13,8 +13,8 @@ import pickle
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-import tensorflow as tf
-from keras.preprocessing import image
+#import tensorflow as tf
+#from keras.preprocessing import image
 import os
 from werkzeug.utils import secure_filename
 st.set_option('deprecation.showfileUploaderEncoding', False)
